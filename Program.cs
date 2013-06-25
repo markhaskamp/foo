@@ -10,7 +10,11 @@ namespace Foo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("eddie would go");
+            Console.WriteLine("kilroy was here");
+
+
+            Console.WriteLine("press <enter> key...");
+            Console.ReadLine();
         }
     }
 }
