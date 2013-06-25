@@ -10,6 +10,7 @@ namespace Foo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("eddie would go");
         }
     }
 }
